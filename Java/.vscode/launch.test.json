@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "gilded-rose-kata",
+                "projectName": "gilded-rose-kata",
+                "workingDirectory": "c:\\Users\\adrian.esguerra\\Desktop\\test\\GildedRose-Refactoring-Kata\\Java",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "gilded-rose-kata",
+                "projectName": "gilded-rose-kata",
+                "workingDirectory": "c:\\Users\\adrian.esguerra\\Desktop\\test\\GildedRose-Refactoring-Kata\\Java",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
